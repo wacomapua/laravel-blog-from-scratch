@@ -27,7 +27,7 @@
         <div>
             <a href="https://laracasts.com">
                 <img
-                    src="./images/logo.svg"
+                    src="/images/logo.svg"
                     alt="Laracasts Logo"
                     width="165"
                     height="16"/>
@@ -76,7 +76,7 @@
                             for="email"
                             class="hidden lg:inline-block">
                             <img
-                                src="./images/mailbox-icon.svg"
+                                src="/images/mailbox-icon.svg"
                                 alt="mailbox letter"/>
                         </label>
 
