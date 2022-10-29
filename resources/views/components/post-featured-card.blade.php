@@ -4,7 +4,7 @@
     <div class="py-6 px-5 lg:flex">
         <div class="flex-1 lg:mr-8">
             <img
-                src="./images/illustration-1.png"
+                src="/images/illustration-1.png"
                 alt="Blog Post illustration"
                 class="rounded-xl"/>
         </div>
@@ -42,7 +42,7 @@
                 class="flex justify-between items-center mt-8">
                 <div class="flex items-center text-sm">
                     <img
-                        src="./images/lary-avatar.svg"
+                        src="/images/lary-avatar.svg"
                         alt="Lary avatar"/>
                     <div class="ml-3">
                         <h5 class="font-bold">{{ $post->author->name }}</h5>

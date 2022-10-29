@@ -2,23 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <link
-        rel="preconnect"
-        href="https://fonts.gstatic.com"/>
-    <meta
-        http-equiv="X-UA-Compatible"
-        content="IE=edge"/>
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <link
-        href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
-        rel="stylesheet"/>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"/>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap"
-        rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet"/>
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <title>Laravel Blog From Scratch</title>
 </head>
 <body style="font-family: Open Sans, sans-serif">
@@ -55,7 +46,7 @@
         id="footer"
         class="bg-gray-100 border border-black border-opacity-5 rounded-xl text-center py-16 px-10 mt-16">
         <img
-            src="./images/lary-newsletter-icon.svg"
+            src="/images/lary-newsletter-icon.svg"
             alt=""
             class="mx-auto -mb-6"
             style="width: 145px"/>
