@@ -16,7 +16,7 @@
 <section class="px-6 py-8">
     <nav class="md:flex md:justify-between md:items-center">
         <div>
-            <a href="https://laracasts.com">
+            <a href="/">
                 <img
                     src="/images/logo.svg"
                     alt="Laracasts Logo"
@@ -27,7 +27,7 @@
 
         <div class="mt-8 md:mt-0">
             <a
-                href="#"
+                href="/"
                 class="text-xs font-bold uppercase transition-colors duration-300 hover:bg-gray-200 rounded-full py-3 px-5"
             >Home Page</a
             >
